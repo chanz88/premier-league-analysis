@@ -25,7 +25,7 @@ Data notes:
 This analysis highlights what drives success in the Premier League across 22 complete seasons.
 
 - Titles: Man City won the most titles (8), followed by Man United (7) and Chelsea (4). Arsenal, Liverpool, and Leicester won 1 each within the seasons analyzed.
-- Goals: Arsenal scored the most goals in total (1,580), followed by Liverpool (1,570) and Man City (1,566). Man City played only 21 of the 22 seasons, so per season they scored the most among these three (about 74.6 goals per season).
+- Goals: Arsenal scored the most goals in total (1,580), followed by Liverpool (1,570) and Man City (1,566).
 - Home advantage: Home teams won more often than away teams in 24 of 25 seasons. The only exception was 2020/21, when games were played without fans because of COVID-19 and away teams won slightly more often (40.3% vs 37.9%).
 - Win rate: Man United has the highest win rate (60.2%), followed by Man City (57.9%) and Liverpool (56.7%).
 - Man United over time: They earned 80 or more points in 10 of 11 seasons before Sir Alex Ferguson retired in 2013, but in only 1 of 11 seasons after.
